@@ -1,7 +1,7 @@
 ## Install PCL Library
 
-* sudo apt install build-essential pkg-config
-* sudo apt install cmake
+* sudo apt -y install build-essential pkg-config
+* sudo apt -y install cmake
 * sudo apt -y install libpcap-dev libglu1-mesa-dev mesa-common-dev
 * sudo apt -y install git-core freeglut3-dev libxmu-dev libxi-dev
 * sudo apt -y install libflann-dev
