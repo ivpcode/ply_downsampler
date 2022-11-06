@@ -18,5 +18,8 @@
 * sudo make install
 
 ## Buildare ply_downsampler
-* git clone 
+* git clone git@github.com:ivpcode/ply_downsampler.git
+* cd ply_downsampler
+* cmake .
+* make -j4
 
